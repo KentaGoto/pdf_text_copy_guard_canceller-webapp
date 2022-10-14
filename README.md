@@ -1,1 +1,13 @@
-"# pdf_text_copy_guard_canceller-webapp" 
+# pdf_text_copy_guard_canceller-webapp 
+
+## Requires
+- PHP 7
+- Go
+- qpdf
+- Windows
+
+## License
+MIT
+
+## Author
+Kenta Goto
