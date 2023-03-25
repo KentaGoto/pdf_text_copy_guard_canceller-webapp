@@ -19,9 +19,9 @@ The web application is implemented using PHP and JavaScript. It enables users to
 ### Usage
 Copy the provided PHP code into a file named index.php and place it in a directory served by your web server.
 Access the web application by navigating to the corresponding URL in your web browser.
-Command-Line Tool
 
-## The command-line tool is implemented in Go and removes the PDF text copy guard from all PDF files in a specified directory.
+## Command-Line Tool
+The command-line tool is implemented in Go and removes the PDF text copy guard from all PDF files in a specified directory.
 
 ### Requirements
 - Go 1.16 or higher
