@@ -30,9 +30,9 @@ The command-line tool is implemented in Go and removes the PDF text copy guard f
 - 7zip
 
 ### Usage
-Copy the provided Go code into a file named main.go.
-Compile the Go code using the command go build -o pdf_text_copy_guard_canceller.exe main.go.
-Run the compiled executable with the directory containing the PDF files as an argument: pdf_text_copy_guard_canceller.exe <DIRECTORY>.
+Copy the provided Go code into a file named **`main.go`**.
+Compile the Go code using the command **`go build -o pdf_text_copy_guard_canceller.exe main.go`**.
+Run the compiled executable with the directory containing the PDF files as an argument: **`pdf_text_copy_guard_canceller.exe <DIRECTORY>`**.
 
 ### License
 MIT
